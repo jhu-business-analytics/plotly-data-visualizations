@@ -7,3 +7,10 @@ A great way to explore, better understand, and showcase your data is through cre
 
 ## Getting Started
 Make sure that you've installed __plotly__ using the instructions from their [Getting Started Guide](https://plot.ly/python/getting-started/).
+
+### Requirements
+```
+plotly == 4.2.1
+pandas == 0.25.2
+```
+
